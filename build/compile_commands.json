@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/linkchat/build",
+  "command": "/usr/bin/g++  -I/root/linkchat/build -I/root/linkchat/build/generated -I/root/linkchat/server/src/test -I/root/linkchat/server/src/test/.. -g -std=gnu++20 -o CMakeFiles/oss_test.dir/oss_test.cpp.o -c /root/linkchat/server/src/test/oss_test.cpp",
+  "file": "/root/linkchat/server/src/test/oss_test.cpp"
+},
+{
+  "directory": "/root/linkchat/build",
+  "command": "/usr/bin/g++  -I/root/linkchat/build -I/root/linkchat/build/generated -I/root/linkchat/server/src/test -I/root/linkchat/server/src/test/.. -g -std=gnu++20 -o CMakeFiles/oss_test.dir/echo.pb.cc.o -c /root/linkchat/build/echo.pb.cc",
+  "file": "/root/linkchat/build/echo.pb.cc"
+},
+{
+  "directory": "/root/linkchat/build",
+  "command": "/usr/bin/g++  -I/root/linkchat/build -I/root/linkchat/build/generated -I/root/linkchat/server/src/test -I/root/linkchat/server/src/test/.. -g -std=gnu++20 -o CMakeFiles/oss_test.dir/generated/person-odb.cxx.o -c /root/linkchat/build/generated/person-odb.cxx",
+  "file": "/root/linkchat/build/generated/person-odb.cxx"
+}
+]

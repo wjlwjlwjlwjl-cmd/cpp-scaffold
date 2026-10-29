@@ -1,0 +1,5 @@
+/root/linkchat/build/CMakeFiles/proto_generate.dir
+/root/linkchat/build/CMakeFiles/odb_generate.dir
+/root/linkchat/build/CMakeFiles/oss_test.dir
+/root/linkchat/build/CMakeFiles/edit_cache.dir
+/root/linkchat/build/CMakeFiles/rebuild_cache.dir
